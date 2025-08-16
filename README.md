@@ -1,4 +1,4 @@
-**Stock-Price-Prediction-project**
+# Stock-Price-Prediction-project
 
 This project contains a machine learning model to predict the movement of stock prices. It uses historical data to train a model which can then be used to forecast whether the stock price will go up or down.
 
@@ -38,4 +38,5 @@ It trains an XGBoost classifier model to predict the next day's price movement.
 The trained model and the data scaler are saved as .pkl files.
 
 The app.py script loads these saved files and creates a simple web UI where you can input a stock symbol to get a prediction.
+
 
