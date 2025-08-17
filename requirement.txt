@@ -1,0 +1,4 @@
+gradio
+xgboost
+yfinance
+joblib
